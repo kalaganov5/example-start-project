@@ -15,4 +15,4 @@ Thumbs.db
 package-lock.json
 docs
 # Храним папку для публикации сайта
-# build/
+build/
